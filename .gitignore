@@ -1,0 +1,8 @@
+
+shelf/
+.idea/
+
+target/
+*.class
+
+.env
